@@ -2,6 +2,8 @@
 Citi Bike Trip Data Analysis
 In this project, we will explore and analyze the Citi Bike trip history logs to discover unexpected phenomena and provide valuable insights for city officials and administrators. We will answer various questions, create visualizations, and design dashboards to present our findings. The focus of this analysis is to provide a clear and insightful overview that can drive programmatic changes and decision-making for the Citi Bike program.
 
+https://public.tableau.com/app/profile/nilusha.dg/viz/TableauChallenge_16925057919600/NYCCitiBikeAnalysis
+
 Instructions
 Data Source
 We are using the Citi Bike trip history logs dataset to conduct our analysis. The dataset contains information about trip duration, start and stop times, station information, user details, and more. Our goal is to extract meaningful insights from this data.
